@@ -277,8 +277,10 @@ body{
 @media (max-width: 768px) {
 
   * {
-    top: 310px;
+    top: 250px;
   }
+
+  .home-img img{max-width:250px}
   
   .header {
     flex-direction: column;
@@ -310,7 +312,7 @@ body{
     margin-top: 20px;
   }
 
-  .skills{top:400px}
+  .skills{top:410px}
 
   .experience{top:150px}
 
