@@ -277,7 +277,7 @@ body{
 @media (max-width: 768px) {
 
   * {
-    top: 500px;
+    top: 400px;
   }
   
   .header {
